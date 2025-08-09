@@ -1,8 +1,8 @@
-## 关于我?? 👋
+## 我是?/ about me? 👋
 
 ---
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="./assets/pusheencode.gif" />
 
 ### I'm Ethan53
 
@@ -15,11 +15,12 @@
 - 🔧 &#160; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 开源项目
+
 - None
 ### 关于我
 - NULL
 ### 正在做的事
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethan-53&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethan53CAE&count_private=true&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
