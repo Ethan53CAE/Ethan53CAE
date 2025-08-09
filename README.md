@@ -4,9 +4,11 @@
 
 <img align="right" alt="GIF" src="./assets/pusheencode.gif" />
 
-### I'm Ethan53
+> 你好，我叫江莫，ID @Ethan53CAE
 
-- 一名计算机专业的大学生
+- 普普通通的计算机专业大三学渣
+
+> “无限进步”
 
 ### 🛠 技术栈 | Tech Stack
 
@@ -18,6 +20,7 @@
 
 - None
 ### 关于我
+
 - NULL
 ### 正在做的事
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethan53CAE&count_private=true&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default)](https://github.com/anuraghazra/github-readme-stats)
