@@ -1,6 +1,5 @@
 ## 我是?/ about me? 👋
 
----
 
 <img align="right" alt="GIF" src="./assets/pusheencode.gif" />
 
