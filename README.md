@@ -1,6 +1,5 @@
 ## 我是?/ about me? 👋
 
-
 <img align="right" alt="GIF" src="./assets/pusheencode.gif" />
 
 > 你好，我叫江莫，ID @Ethan53CAE
@@ -23,8 +22,6 @@
 - NULL
 ### 正在做的事
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethan53CAE&count_private=true&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <!--
 **Ethan53CAE/Ethan53CAE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
