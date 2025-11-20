@@ -21,7 +21,7 @@
 
 - NULL
 ### 正在做的事
-[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethan53CAE&count_private=true&locale=cn&line_height=33&show_icons=true&theme=radical&rank_icon=default)](https://github.com/Ethan53CAE)
+[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethan53CAE&count_private=true&locale=cn&line_height=33&show_icons=true&theme=default&bg_color=ffffff&rank_icon=default)](https://github.com/Ethan53CAE)
 
 <!--
 **Ethan53CAE/Ethan53CAE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
