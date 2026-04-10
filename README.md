@@ -21,7 +21,8 @@
 
 - NULL
 ### 正在做的事 | GitHub Stats
-[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethan53CAE&show_icons=true&locale=cn)](https://github.com/Ethan53CAE)
+
+- 暂时休息中
 
 <!--
 **Ethan53CAE/Ethan53CAE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
