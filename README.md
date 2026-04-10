@@ -21,36 +21,7 @@
 
 - NULL
 ### 正在做的事 | GitHub Stats
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Ethan53CAE&show_icons=true&locale=cn&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Ethan53CAE&show_icons=true&locale=cn&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Ethan53CAE&show_icons=true&locale=cn"
-  />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan53CAE&layout=compact&locale=cn&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan53CAE&layout=compact&locale=cn&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan53CAE&layout=compact&locale=cn"
-  />
-</picture>
+[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethan53CAE&show_icons=true&locale=cn)](https://github.com/Ethan53CAE)
 
 <!--
 **Ethan53CAE/Ethan53CAE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
