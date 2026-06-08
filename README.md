@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="./assets/pusheencode.gif" />
 
-> 你好，我叫江莫，ID @Ethan53CAE
+> 你好，我叫江莫，ID @M0ra53
 
 - 普普通通的计算机专业大三学渣
 
